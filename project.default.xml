@@ -1,0 +1,23 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+      </component>
+      <component name="TypeScriptCompiler">
+        <option name="isCompilerEnabled" value="true" />
+        <option name="useConfig" value="true" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

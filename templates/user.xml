@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="its" value="it(&quot;should $desc$&quot;, () =&gt; {&#10;    $END$&#10;});" description="it should" toReformat="false" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
